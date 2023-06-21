@@ -1,4 +1,4 @@
-![3 data import](https://github.com/nissijeap/SAMS-Final-GUI/assets/115227551/4491df1a-ee9f-46b5-9720-c2274bd8b5c3)# Face_Recognition_Attendance_System
+# Face Recognition Attendance System
 
 The objective of this project is to process live video-stream of students entering their classroom and generate the list of students attending the class. The system is coded in Python using OpenCv , Tkinter and MySQL.
 
